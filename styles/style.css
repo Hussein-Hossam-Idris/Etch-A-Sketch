@@ -1,0 +1,22 @@
+/*
+.container_1 {
+  display:flex;
+  width:1120px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 0 auto;
+  
+}
+*/
+
+.container_1_box {
+    
+}
+
+.green {
+    background-color: green;
+}
+
+.black {
+    background-color: black;
+}
