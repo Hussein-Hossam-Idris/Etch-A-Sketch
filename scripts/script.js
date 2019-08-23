@@ -28,6 +28,8 @@ function makeGrids() {
         block1.style.flexWrap = 'wrap';
         block1.style.flexDirection = 'row';
         block1.style.margin = '0 auto';
+
+        block1.style.border = '10px black solid';
         block1.appendChild(divMaker);
 
     }
